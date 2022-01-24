@@ -1,0 +1,6 @@
+//&S+
+		//hello word
+    // comment
+    /*
+    comment
+    */
